@@ -7,7 +7,15 @@
     "url": "https://esyurl.fyi"
   },
   "homepage": "https://esyurl.fyi",
+  "privacyPolicyUrl": "https://esyurl.fyi/legal/privacy",
   "repository": "https://github.com/esyurl/claude-plugin",
   "license": "MIT",
-  "keywords": ["short-links", "url-shortener", "qr-code", "redirects", "analytics", "mcp"]
+  "keywords": [
+    "short-links",
+    "url-shortener",
+    "qr-code",
+    "redirects",
+    "analytics",
+    "mcp"
+  ]
 }
