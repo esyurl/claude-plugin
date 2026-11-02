@@ -24,8 +24,9 @@ existing `esy_` key. No key goes in any config file.
 | [esyurl-short-links](plugins/esyurl/skills/esyurl-short-links/SKILL.md) | Shorten URLs, custom slugs, change where a shared link points; App Store / Google Play and country, language or device routing; click and scan stats; your own domain |
 | [esyurl-qr-codes](plugins/esyurl/skills/esyurl-qr-codes/SKILL.md) | Trackable, editable QR codes; styled with dots, colours, a logo or a photo; PNG or SVG; one code for both app stores; scan counts |
 
-The skills are the same as in [esyurl/skills](https://github.com/esyurl/skills),
-for agents other than Claude Code.
+The skills here use only the MCP server's tools, which sign in through
+Claude Code. [esyurl/skills](https://github.com/esyurl/skills) has versions
+for other agents, which call the REST API with an API key.
 
 ## License
 
