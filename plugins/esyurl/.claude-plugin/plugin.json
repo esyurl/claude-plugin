@@ -1,0 +1,13 @@
+{
+  "name": "esyurl",
+  "description": "Short links and trackable QR codes with esyURL: shorten URLs, render styled QR codes, change where printed or shared links point, route visitors by device or country, and read click and scan stats.",
+  "version": "0.1.0",
+  "author": {
+    "name": "esyURL",
+    "url": "https://esyurl.fyi"
+  },
+  "homepage": "https://esyurl.fyi",
+  "repository": "https://github.com/esyurl/claude-plugin",
+  "license": "MIT",
+  "keywords": ["short-links", "url-shortener", "qr-code", "redirects", "analytics", "mcp"]
+}

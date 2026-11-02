@@ -1,0 +1,19 @@
+{
+  "name": "esyurl",
+  "owner": {
+    "name": "esyURL",
+    "url": "https://esyurl.fyi"
+  },
+  "metadata": {
+    "description": "esyURL plugins for Claude Code: short links and QR codes your agent manages."
+  },
+  "plugins": [
+    {
+      "name": "esyurl",
+      "source": "./plugins/esyurl",
+      "description": "Short links and trackable QR codes: editable after printing, device and country routing, click and scan stats.",
+      "category": "productivity",
+      "homepage": "https://esyurl.fyi"
+    }
+  ]
+}
